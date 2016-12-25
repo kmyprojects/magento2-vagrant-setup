@@ -20,7 +20,7 @@ Setup Includes Apache 2, Php 7.0, Mysql 5.6 and required PHP extensions
 9. Setup must show "Process finished with exit code 0"
 10. Now with in ssh, login to mysql server and create database.
 
-# Instruction for Installing Magento 2
+# Instructions for Installing Magento 2
 1. Download Latest Magento 2 to local directory created above
 2. Open virtual local host in browser
 3. Start setting up magento and provide above created database details.
